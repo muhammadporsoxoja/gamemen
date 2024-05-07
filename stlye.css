@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table,
+  th,
+  td {
+    padding: 20px;
+    border: 1px solid black;
+  }
+  
+  .sariq {
+    background-color: yellow;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .center {
+    text-align: center;
+  }
+
+  
